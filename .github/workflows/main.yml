@@ -1,2 +1,2 @@
-- name: Auto Issue List in README(Change Table Layout For Blog)
+name: Auto Issue List in README(Change Table Layout For Blog)
   uses: oddcc/issue-list-readme@v0.0.1
